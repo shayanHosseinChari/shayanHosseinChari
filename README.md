@@ -1,7 +1,7 @@
 <h1 align="center"> I'm shayan hosseinchari</h1>
 <h3 align="center">Frontend & Android developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanhosseinchari" alt="shayanhosseinchari" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanhosseinchari&label=Profile%20views&color=0e75b6&style=flat" alt="shayanhosseinchari" /> </p>
 
 - 📫 How to reach me **shayanchr.dev@gmail.com**
 
